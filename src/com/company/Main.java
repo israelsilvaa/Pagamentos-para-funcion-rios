@@ -24,7 +24,7 @@ public class Main {
             System.out.println("Valor do salário total: R$ " + func.Pagamento() );
 
         }
-
+        //variação de pull request
         if (resp == 1){
             System.out.print("Informe o nome do funcionário terceirizado: ");
             String nome = sc.next();
